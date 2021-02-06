@@ -1,5 +1,6 @@
 ### Hi there 👋
-![I'm Naruto210.](https://github.com/Jason210314/Jason210314/raw/master/gif/introduction.gif)
+
+- 🌱 I’m currently learning Rust, C++
 
 <!--
 **Jason210314/Jason210314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=Jason210314&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&count_private=true" />
+</br> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason210314&count_private=true&hide_border=true&hide_title=true&layout=compact&hide=html,css" />
