@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently using Rust
 
 <!--
 **Jason210314/Jason210314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
