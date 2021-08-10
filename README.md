@@ -1,22 +1,20 @@
 ### Hi there 👋
 
-- 🌱 I’m currently using Rust
+- I’m naruto210, a student from UCAS.
+- I'm currently using Rust.
 
-<!--
-**Jason210314/Jason210314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com/ghpvc/?username=waruto210" alt="waruto210" />
 
-Here are some ideas to get you started:
+🔭 What I did over the past week :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:waka-->
 
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=Jason210314&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&count_private=true" />
-</br> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason210314&count_private=true&hide_border=true&hide_title=true&layout=compact&hide=html,css" />
+```text
+Python       2 hrs 17 mins   ███████████████████░░░░░░   76.02 %
+JavaScript   28 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+Other        9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+```
+
+<!--END_SECTION:waka-->
