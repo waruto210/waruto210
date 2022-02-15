@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m naruto210, a student from UCAS.
+- I’m waruto, a student from UCAS.
 - I'm currently using Rust.
 
 <img src="https://komarev.com/ghpvc/?username=waruto210" alt="waruto210" />
