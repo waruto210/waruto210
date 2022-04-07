@@ -34,9 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Rust         1 hr 1 min      █████████████████████████   99.94 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
