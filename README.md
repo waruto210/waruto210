@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍🎓 I am a master's student at [TCSE](http://www.tcse.cn), [ISCAS](http://www.iscas.ac.cn).
+- 👨‍🎓 I am a master student at [TCSE](http://www.tcse.cn), [ISCAS](http://www.iscas.ac.cn).
 - 👨‍💻 Previous internship: ByteDance(Backend dev, 2020.6-2020.10)
 
 <img src="https://komarev.com/ghpvc/?username=waruto210" alt="waruto210" />
