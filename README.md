@@ -34,9 +34,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Rust               9 hrs 33 mins   █████████████░░░░░░░░░░░░   51.73 %
-Python             5 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   27.75 %
-Other              2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+Rust               8 hrs 27 mins   ████████████▒░░░░░░░░░░░░   48.72 %
+Other              4 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   23.69 %
 ```
 
 <!--END_SECTION:waka-->
