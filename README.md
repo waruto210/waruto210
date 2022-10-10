@@ -34,8 +34,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Rust               10 hrs 21 mins  ██████████████▓░░░░░░░░░░   58.15 %
-Other              2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
+Rust              10 hrs 36 mins  █████████████░░░░░░░░░░░░   52.45 %
+Other             3 hrs 52 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
 ```
 
 <!--END_SECTION:waka-->
