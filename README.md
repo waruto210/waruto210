@@ -17,8 +17,6 @@
 - 🪣 &nbsp;
   ![Tokio](https://img.shields.io/badge/-Tokio-black?style=for-the-badge&logo=appveyor)
   ![Spark](https://img.shields.io/badge/-Spark-black?style=for-the-badge&logo=appwrite)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 - ⚒️ &nbsp;
   ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
