@@ -15,7 +15,7 @@
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 - 🪣 &nbsp;
-  ![Tokio](https://img.shields.io/badge/-Tokio-black?style=for-the-badge&logo=appveyor)
+  ![Flink](https://img.shields.io/badge/-Flink-black?style=for-the-badge&logo=appveyor)
   ![Spark](https://img.shields.io/badge/-Spark-black?style=for-the-badge&logo=appwrite)
 
 - ⚒️ &nbsp;
