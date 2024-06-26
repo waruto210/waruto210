@@ -35,10 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     26 mins         ████████████████████████▓   98.98 %
-CSV          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
