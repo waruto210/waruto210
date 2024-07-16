@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-- 👨‍🎓 I am a master student at [TCSE](http://www.tcse.cn), [ISCAS](http://www.iscas.ac.cn).
+- 👨‍💻 I am now working at @Tencent.
+- 👨‍🎓 I got my master degree at [TCSE](http://www.tcse.cn), [ISCAS](http://www.iscas.ac.cn).
 - 👨‍💻 Previous internship:
   - RisingWave Labs(Kernel dev, 2022.10-2023.2)
   - ByteDance(Backend dev, 2020.6-2020.10
