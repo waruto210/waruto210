@@ -35,11 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SQL        23 mins         ██████████▒░░░░░░░░░░░░░░   41.41 %
-Bash       9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
-TOML       8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
-Markdown   8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
-Rust       5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
