@@ -3,8 +3,8 @@
 - 👨‍🎓 I got my master degree at [TCSE](http://www.tcse.cn), [ISCAS](http://www.iscas.ac.cn).
 - 👨‍💻 Previous internship:
   - RisingWave Labs(Kernel dev, 2022.10-2023.2)
+  - ByteDance(Lark Rust SDK dev, 2021.06-2021.11)
   - ByteDance(Backend dev, 2020.6-2020.10
-  - Rust SDK dev, 2021.06-2021.11)
 
 <img src="https://komarev.com/ghpvc/?username=waruto210" alt="waruto210" />
 
