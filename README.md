@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=waruto210" alt="waruto210" />
 
 
-## Know a little aboubt
+## Know a little about
 
 - 📖 &nbsp;
   ![Rust](https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust&logoColor=white)
