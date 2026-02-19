@@ -35,10 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++    53 mins         ██████████████████▒░░░░░░   73.33 %
-Bash   9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-YAML   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-Java   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
