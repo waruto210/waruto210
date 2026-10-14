@@ -35,7 +35,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++        2 hrs 41 mins         █████████████░░░░░░░░░░░░   51.78 %
+Java       53 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
+Markdown   50 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
+Python     29 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+Other      14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
 ```
 
 <!--END_SECTION:waka-->
